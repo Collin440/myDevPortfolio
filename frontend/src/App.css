@@ -1,3 +1,44 @@
+.guild {
+  position: relative;
+  isolation: isolate;
+  min-height: 100vh;
+  padding: 4rem 2rem;
+}
+
+.guild::before {
+  content: "";
+  position: fixed;
+  inset: -20%;
+  z-index: -1;
+  background:
+    radial-gradient(
+      circle at 20% 20%,
+      rgba(214, 2, 112, 0.35),
+      transparent 50%
+    ),
+    radial-gradient(circle at 80% 30%, rgba(0, 56, 168, 0.35), transparent 50%),
+    radial-gradient(
+      circle at 50% 90%,
+      rgba(155, 79, 150, 0.35),
+      transparent 50%
+    );
+  animation: drift 24s ease-in-out infinite alternate;
+}
+
+@keyframes drift {
+  from {
+    transform: translate(-4%, -3%) scale(1);
+  }
+  to {
+    transform: translate(4%, 3%) scale(1.15);
+  }
+}
+
+h1 {
+  font-size: clamp(2rem, 6vw, 4rem);
+  margin: 1rem 0;
+}
+
 .terminal {
   margin-top: 2rem;
   max-width: 720px;
@@ -40,4 +81,62 @@
 .chips button:hover {
   background: var(--violet);
   color: #fff;
+}
+
+.section-title {
+  margin: 3rem 0 1rem;
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--violet);
+}
+.cards {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  max-width: 1000px;
+  perspective: 1000px;
+}
+.card {
+  padding: 1.25rem;
+  border-radius: 12px;
+  background: rgba(11, 10, 20, 0.7);
+  border: 1px solid rgba(155, 79, 150, 0.4);
+  backdrop-filter: blur(8px);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
+}
+.card:hover {
+  transform: rotateX(4deg) rotateY(-4deg) translateY(-6px);
+  border-color: var(--magenta);
+  box-shadow: 0 12px 40px rgba(214, 2, 112, 0.3);
+}
+.card-tag {
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #6f9bff;
+}
+.card h3 {
+  margin: 0.5rem 0;
+}
+.stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 1rem 0;
+  list-style: none;
+}
+.stack li {
+  padding: 0.15rem 0.6rem;
+  font-size: 0.8rem;
+  border: 1px solid var(--violet);
+  border-radius: 999px;
+}
+.status {
+  font-size: 0.8rem;
+  color: var(--magenta);
 }
