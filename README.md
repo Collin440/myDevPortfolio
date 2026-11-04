@@ -2,9 +2,9 @@
 
 > A terminal-style, anime-flavoured portfolio built with TypeScript and deployed on AWS.
 
-**Live site:** [add URL once deployed]
+**Live site:** coming soon (deployment in progress)
 **Status:** In progress
-**Author:** Fofo Collin Moleme · [GitHub](https://github.com/[your-username]) · [LinkedIn]([your-link])
+**Author:** Fofo Collin Moleme · [GitHub](https://github.com/Collin440) · [LinkedIn](https://www.linkedin.com/in/fofo-moleme-a10b2337a/)
 
 ---
 
@@ -17,15 +17,15 @@ and infrastructure defined as code.
 
 ## Tech stack
 
-| Layer          | Tools                                            |
-| -------------- | ------------------------------------------------ |
-| Frontend       | React, Vite, TypeScript, HTML, CSS               |
-| Backend        | Node.js, TypeScript on AWS Lambda                |
-| API            | Amazon API Gateway (HTTP API)                    |
-| Database       | Amazon DynamoDB (guestbook + contact messages)   |
-| Email          | Amazon SES                                       |
-| Hosting / CDN  | Amazon S3 + CloudFront                           |
-| Infrastructure | AWS CDK (TypeScript)                             |
+| Layer          | Tools                                          |
+| -------------- | ---------------------------------------------- |
+| Frontend       | React, Vite, TypeScript, HTML, CSS             |
+| Backend        | Node.js, TypeScript on AWS Lambda              |
+| API            | Amazon API Gateway (HTTP API)                  |
+| Database       | Amazon DynamoDB (guestbook + contact messages) |
+| Email          | Amazon SES                                     |
+| Hosting / CDN  | Amazon S3 + CloudFront                         |
+| Infrastructure | AWS CDK (TypeScript)                           |
 
 Mobile (Kotlin) and AI work live in separate projects: see [PORTFOLIO.md](./PORTFOLIO.md).
 
@@ -86,7 +86,7 @@ Never commit `.env` files or AWS keys.
 cd infra
 npm install
 npx cdk bootstrap   # first time only
-npx cdk deploy
+npx Currently deployed manually: run npm run build in frontend/, upload the contents of dist/ to a private S3 bucket, and serve them through CloudFront. Infrastructure as code with AWS CDK is planned.
 ```
 
 The stack creates the S3 bucket, CloudFront distribution, API, Lambda functions and table.
@@ -99,15 +99,16 @@ The stack creates the S3 bucket, CloudFront distribution, API, Lambda functions 
 
 ## Roadmap
 
-- [ ] Terminal component with command history
+- [x] Terminal component with command chips
 - [ ] Fofo ⇄ Dev theme toggle
-- [ ] Project and skill data files
+- [x] Project data file and cards
 - [ ] Contact form → Lambda → SES + DynamoDB
 - [ ] Guestbook
 - [ ] CV and cover letter downloads
 - [ ] CDK deploy + custom domain (optional)
 - [ ] Accessibility and mobile pass
+- [ ] Skill data file
 
 ## Licence
 
-[Choose one, e.g. MIT]
+[MIT]

@@ -1,49 +1,50 @@
 # Fofo Collin Moleme: Developer Portfolio Summary
 
 **Full-stack & mobile developer** · Johannesburg, South Africa
-[GitHub]([link]) · [LinkedIn]([link]) · [Email]([address]) · [Live portfolio]([link])
+[GitHub](https://github.com/Collin440) · [LinkedIn](https://www.linkedin.com/in/fofo-moleme-a10b2337a/) · [Email](fofocollinmoleme@gmail.com) · [Live portfolio](Live portfolio: coming soon)
 
 ---
 
 ## About me
 
-[2-3 sentences, in your own voice. Who you are, what you build, what you're growing into.
-Example shape: "I'm a developer who builds web and mobile apps and is now adding cloud
-and native Android to the toolkit. I love anime, fantasy and stories, and I bring that
-into how I design."]
+"I'm a developer who builds web and mobile apps and is now adding cloud
+and native Android to the toolkit. I love anime, dark fantasy, horror and some good old business tech news. I love code and I bring that into how I design."
 
 ## What I'm building (live projects)
 
 ### The GreenHaus: React, TypeScript, Supabase, AI
-- **What it is:** [one line: venue-first social app; venues, profiles, messaging]
+
+- A venue-first social app: discover places, follow people and chat in real time, with an AI Radar search powered by Gemini.
 - **AI:** Radar search that turns natural-language queries into results with Gemini Flash
 - **Skills shown:** React, Supabase, real-time features, AI integration
 - **Status:** ~70% complete · [link when deployed] · [repo]
 
 ### Tsebo: Native Kotlin (Android)
-- **What it is:** [what it does today, one line]
+
+- A native Kotlin Android app: a research-focused community for tech and science people.
 - **Skills shown:** Kotlin, Android, mobile UI
 - **Status:** In progress · [repo]
 
 ### This portfolio: TypeScript on AWS
-- **What it is:** Terminal-style site hosted on S3 + CloudFront with a Lambda + DynamoDB backend
+
+- Terminal-style site on S3 and CloudFront (deployment pending AWS account verification)
 - **Skills shown:** React, TypeScript, Node.js, AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB, SES), AWS CDK
 - **Status:** Building · [live link] · [repo]
 
 ## Skills (honest levels)
 
-| Area              | Level            | Where to see it           |
-| ----------------- | ---------------- | ------------------------- |
-| JavaScript / TS   | [e.g. Intermediate] | GreenHaus, this portfolio |
-| React             | [ ]              | GreenHaus                 |
-| Node.js           | [ ]              | Portfolio backend         |
-| Supabase / SQL    | [ ]              | GreenHaus                 |
-| Kotlin / Android  | [ ] (learning)   | Tsebo                     |
-| AWS               | [ ] (in training)| This portfolio            |
+| Area             | Level             | Where to see it           |
+| ---------------- | ----------------- | ------------------------- |
+| JavaScript / TS  | [Intermediate]    | GreenHaus, this portfolio |
+| React            | [Junior]          | GreenHaus                 |
+| Node.js          | [Junior]          | Portfolio backend         |
+| Supabase / SQL   | [Junior]          | GreenHaus                 |
+| Kotlin / Android | [ ] (learning)    | Tsebo                     |
+| AWS              | [ ] (in training) | This portfolio            |
 
 ## Certifications and learning
 
-- Higher Certificate in Mobile Application and Web Development, Rosebank International
+- Higher Certificate in Mobile Application and Web Development, Rosebank International (Graduated)
 - AWS re/Start programme (Titan Centre of Excellence), in progress, ends Jan 2027
 - AWS Certified Cloud Practitioner: planned
 - AWS Certified Developer Associate: planned
@@ -57,16 +58,16 @@ into how I design."]
 
 ## Before development
 
-**Standard Bank:** [role, dates]
-- [1-2 bullets on responsibilities and results]
-- [1 bullet on transferable skills: e.g. attention to detail, working with financial systems, process thinking]
+**Standard Bank:** [Account Management Consultant, June 2017 - April 2024]
+
+- [Outbound and inbound calls. Business Lending account managment]
+- [Attention to detail, working with financial systems, process thinking, Salesforce CRM tools and AWS]
 
 ## What I've learned
 
-- [lesson 1, e.g. working around an API limitation]
-- [lesson 2]
-- [lesson 3]
+- [lesson 1, How to use AWS and Salesforces CRM tools]
+- [lesson 2, Managing client business accounts (loans and cheques) at scale]
 
 ## Contact
 
-Open to junior developer and cloud roles. [Preferred contact + availability]
+Open to junior developer and cloud roles. [fofocollinmoleme@gmail.com]
