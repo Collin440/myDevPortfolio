@@ -28,17 +28,17 @@ and native Android to the toolkit. I love anime, dark fantasy, horror and some g
 ### This portfolio: TypeScript on AWS
 
 - Terminal-style site (live on S3 + CloudFront)
-- **Skills shown:** React, TypeScript, Node.js, AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB, SES), AWS CDK
-- **Status:** Building · [https://d1yjlszq88ntb9.cloudfront.net] · [repo]
+- **Skills shown:** React, TypeScript, AWS (S3, CloudFront)
+- **Status:** Live (frontend) · [Visit the site](https://d1yjlszq88ntb9.cloudfront.net) · [Repo](https://github.com/Collin440/myDevPortfolio)
 
 ## Skills (honest levels)
 
 | Area             | Level             | Where to see it           |
 | ---------------- | ----------------- | ------------------------- |
-| JavaScript / TS  | [Intermediate]    | GreenHaus, this portfolio |
-| React            | [Junior]          | GreenHaus                 |
-| Node.js          | [Junior]          | Portfolio backend         |
-| Supabase / SQL   | [Junior]          | GreenHaus                 |
+| JavaScript / TS  | [Lvl 3]           | GreenHaus, this portfolio |
+| React            | [Lvl 2]           | GreenHaus                 |
+| Node.js          | [Lvl 1]           | Portfolio backend         |
+| Supabase / SQL   | [Lvl 2]           | GreenHaus                 |
 | Kotlin / Android | [ ] (learning)    | Tsebo                     |
 | AWS              | [ ] (in training) | This portfolio            |
 
