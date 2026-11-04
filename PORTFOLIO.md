@@ -1,7 +1,7 @@
 # Fofo Collin Moleme: Developer Portfolio Summary
 
 **Full-stack & mobile developer** · Johannesburg, South Africa
-[GitHub](https://github.com/Collin440) · [LinkedIn](https://www.linkedin.com/in/fofo-moleme-a10b2337a/) · [Email](fofocollinmoleme@gmail.com) · [Live portfolio](Live portfolio: coming soon)
+[GitHub](https://github.com/Collin440) · [LinkedIn](https://www.linkedin.com/in/fofo-moleme-a10b2337a/) · [Email](fofocollinmoleme@gmail.com) · [Live portfolio](https://d1yjlszq88ntb9.cloudfront.net/)
 
 ---
 
@@ -27,9 +27,9 @@ and native Android to the toolkit. I love anime, dark fantasy, horror and some g
 
 ### This portfolio: TypeScript on AWS
 
-- Terminal-style site on S3 and CloudFront (deployment pending AWS account verification)
+- Terminal-style site (live on S3 + CloudFront)
 - **Skills shown:** React, TypeScript, Node.js, AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB, SES), AWS CDK
-- **Status:** Building · [live link] · [repo]
+- **Status:** Building · [https://d1yjlszq88ntb9.cloudfront.net] · [repo]
 
 ## Skills (honest levels)
 

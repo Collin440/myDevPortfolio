@@ -4,7 +4,10 @@
 
 **Live site:** coming soon (deployment in progress)
 **Status:** In progress
-**Author:** Fofo Collin Moleme · [GitHub](https://github.com/Collin440) · [LinkedIn](https://www.linkedin.com/in/fofo-moleme-a10b2337a/)
+**Author:** Fofo Collin Moleme ·
+[GitHub](https://github.com/Collin440) ·
+[LinkedIn](https://www.linkedin.com/in/fofo-moleme-a10b2337a/) ·
+[Live portfolio](https://d1yjlszq88ntb9.cloudfront.net/) ·
 
 ---
 
