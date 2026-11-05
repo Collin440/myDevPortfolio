@@ -66,9 +66,10 @@ and native Android to the toolkit. I love anime, dark fantasy, horror and some g
 
 ## What I've learned
 
-- [lesson 1, How to use AWS and Salesforces CRM tools]
-- [lesson 2, Managing client business accounts (loans and cheques) at scale]
+- [lesson 1, Read the price estimate before accepting defaults: I turned off a paid firewall option a static site doesn't need.]
+- [lesson 2, New AWS accounts can need verification from Support before CloudFront works. I opened a case and got it resolved.]
+- [lesson 3, Keep S3 buckets private and serve them through CloudFront, and invalidate the cache after each deploy.]
 
 ## Contact
 
-Open to junior developer and cloud roles. [fofocollinmoleme@gmail.com]
+Open to junior developer and cloud roles. [fofocollinmoleme@gmail.com](mailto:fofocollinmoleme@gmail.com)

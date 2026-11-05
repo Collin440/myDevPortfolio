@@ -32,6 +32,6 @@ export const projects: Project[] = [
     tag: "Cloud",
     blurb: "This portfolio, hosted on AWS with S3 and CloudFront.",
     stack: ["React", "TypeScript", "AWS S3", "CloudFront"],
-    status: "Building",
+    status: "Live",
   },
 ];
