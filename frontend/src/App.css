@@ -140,3 +140,24 @@ h1 {
   font-size: 0.8rem;
   color: var(--magenta);
 }
+
+.story {
+  max-width: 720px;
+  display: grid;
+  gap: 1rem;
+}
+.episode {
+  padding: 1.25rem;
+  border-left: 3px solid var(--magenta);
+  border-radius: 0 12px 12px 0;
+  background: rgba(11, 10, 20, 0.6);
+}
+.episode h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+  color: #6f9bff;
+}
+.episode p {
+  margin: 0;
+  line-height: 1.6;
+}

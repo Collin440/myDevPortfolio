@@ -12,8 +12,9 @@ const commands: Record<string, string[]> = {
     "  clear     clear the screen",
   ],
   about: [
-    "Fofo Collin Moleme: full-stack and mobile developer from Johannesburg.",
-    "Currently levelling up on AWS and Kotlin.",
+    "Previously: about six years at Standard Bank, then the turn to code.",
+    "Now: AWS re/Start, three projects, curious about what is under the hood.",
+    "Next: a computer science degree. Scroll down for the full story.",
   ],
   projects: [
     "1. The GreenHaus: React, Supabase, AI (in progress)",

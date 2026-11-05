@@ -58,10 +58,11 @@ and native Android to the toolkit. I love anime, dark fantasy, horror and some g
 
 ## Before development
 
-**Standard Bank:** [Account Management Consultant, June 2017 - April 2024]
+**Standard Bank:** Account Management Consultant, 2017–2024 (about six years)
 
-- [Outbound and inbound calls. Business Lending account managment]
-- [Attention to detail, working with financial systems, process thinking, Salesforce CRM tools and AWS]
+- Managed business lending client accounts (cheque and loan facilities)
+- Ran inbound and outbound email campaigns using Salesforce CRM
+- Worked alongside an email team that used AWS, which first sparked my interest in cloud
 
 ## What I've learned
 

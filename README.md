@@ -104,6 +104,7 @@ The stack creates the S3 bucket, CloudFront distribution, API, Lambda functions 
 
 - [x] Terminal component with command chips
 - [ ] Fofo ⇄ Dev theme toggle
+- [x] About section ("Previously on…" story)
 - [x] Project data file and cards
 - [ ] Contact form → Lambda → SES + DynamoDB
 - [ ] Guestbook
